@@ -1,5 +1,5 @@
 <h1 align="center">Sup👋, I'm Zero</h1>
-<h3 align="center">A passionat not-so great Developer</h3>
+<h3 align="center">A passionate not-so great Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xzeromcpe" alt="xzeromcpe" /></a> </p>
 
